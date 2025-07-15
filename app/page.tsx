@@ -385,7 +385,7 @@ export default function ValleyAIAuth() {
         </div>
 
         {/* Right Panel - Storytelling & Brand Identity */}
-        <div className="w-full lg:w-[35%] p-6 sm:p-8 lg:p-12 flex flex-col justify-between relative overflow-hidden order-1 lg:order-2 min-h-[300px] lg:min-h-0">
+        <div className=" hidden md:block w-full lg:w-[35%] p-6 sm:p-8 lg:p-12 flex flex-col justify-between relative overflow-hidden order-1 lg:order-2 min-h-[300px] lg:min-h-0">
           {/* Background Animation Elements */}
           <div className="absolute inset-0 text-blue-600 my-0 mr-0 px-0 border-0 mt-0 opacity-5 bg-violet-500">
             <div className="absolute top-10 sm:top-20 left-10 sm:left-20 w-20 h-20 sm:w-32 sm:h-32 bg-[#1F09FF] rounded-full animate-pulse"></div>
